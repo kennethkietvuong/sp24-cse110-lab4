@@ -2,7 +2,7 @@
 
 1. `citylots.json`
 2. `expose.js`
-3. `expose.js` file size is **214 bytes**, `citylots.json` file size is **11.7 megabytes**
+3. `777713` bytes or `~777.713 KB`
 4. Around **60 ~ 71 ms**
 5. `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36`
 6. `GitHub.com`
